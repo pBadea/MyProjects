@@ -1,5 +1,11 @@
 ![reagan-revolution](https://user-images.githubusercontent.com/56653993/82961809-16ea8d00-9fc7-11ea-9d25-688f0dac731e.jpg)
 
+<style> 
+  body{
+    backgroundcolor:"blue";
+  }
+<\style>
+
 # ARMS RACE
 I did this project for my university in 2019 and it is about The Cold War.
 You can check out the .ppt  presentation or the .docx documentaion about it,
