@@ -1,9 +1,9 @@
 ![reagan-revolution](https://user-images.githubusercontent.com/56653993/82961809-16ea8d00-9fc7-11ea-9d25-688f0dac731e.jpg)
 
 # ARMS RACE
-#### I did this project for my university in 2019 and it is about The Cold War.
-#### You can check out the .ppt  presentation or the .docx documentaion about it,
-#### however it's all in german beacuse I'm at the german section. 
+I did this project for my university in 2019 and it is about The Cold War.
+You can check out the .ppt  presentation or the .docx documentaion about it,
+however it's all in german beacuse I'm at the german section. 
 
 It's  about diferential equations, and the math is a bit complicated,
 but to sum it up breefly, the mathematic model the python script is based on,
