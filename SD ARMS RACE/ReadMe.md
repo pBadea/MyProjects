@@ -4,7 +4,9 @@
   body{
     backgroundcolor:"blue";
   }
-<\style>
+</style>
+
+
 
 # ARMS RACE
 I did this project for my university in 2019 and it is about The Cold War.
