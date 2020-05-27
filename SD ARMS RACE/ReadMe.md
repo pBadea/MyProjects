@@ -19,8 +19,7 @@ arming up.
 <img align="right" width="300" height="300" src="https://user-images.githubusercontent.com/56653993/82961861-32ee2e80-9fc7-11ea-9e8e-181aae5b5568.png">
 
 
-You could compare them to real events, like the fall of USSR, which it managed to build 
-more atomic bombs than the USA, but suffered a great economic depression beacuse of it.
+#### You could compare them to real events, like the fall of USSR, which it managed to build more atomic bombs than the USA, but suffered a great economic depression beacuse of it.
 
 
 ![png;base6410549057d8e2b9da](https://user-images.githubusercontent.com/56653993/82962297-7a28ef00-9fc8-11ea-9826-21de571b6d8d.png)
