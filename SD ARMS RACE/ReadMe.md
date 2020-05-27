@@ -12,7 +12,7 @@ predicts the economic growth of 2 neighboured countries that are in an arms race
 The to sets of diagrams that the script generates, picture how the economy of each side 
 evolves over 100 years and how the safety of each country is affected by the other one 
 arming up.
-<div>
+<div background="red">
 <img float="left" width="300" height="300" src="https://user-images.githubusercontent.com/56653993/82961852-31246b00-9fc7-11ea-99ae-9e241e100fe7.png">
 <img float="right" width="300" height="300" src="https://user-images.githubusercontent.com/56653993/82961860-32559800-9fc7-11ea-80c7-0ebdcb27cb5c.png">
 </div>
