@@ -1,4 +1,5 @@
-#I did this project for my university in 2019 and it is about The Cold War.
+### SD ARMS RACE
+I did this project for my university in 2019 and it is about The Cold War.
 You can check out the .ppt  presentation or the .docx documentaion about it,
 however it's all in german beacuse I'm at the german section. 
 
