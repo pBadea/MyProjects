@@ -1,7 +1,6 @@
 Hello, these are some of my projects. Fell free to check them out!
 
 
-![reagan-revolution](https://user-images.githubusercontent.com/56653993/82961809-16ea8d00-9fc7-11ea-9d25-688f0dac731e.jpg)
 
 # ARMS RACE 
 ### A dynimic system mathematical model in Python
@@ -26,6 +25,15 @@ arming up.
 <img float="left" width="300" height="300" src="https://user-images.githubusercontent.com/56653993/82961857-32559800-9fc7-11ea-8868-71a2c728228b.png">
 <img float="right" width="300" height="300" src="https://user-images.githubusercontent.com/56653993/82961861-32ee2e80-9fc7-11ea-9e8e-181aae5b5568.png">
 </div>
+
+
+You could compare them to real events, like the fall of USSR, which it managed to build 
+more atomic bombs than the USA, but suffered a great economic depression beacuse of it.
+
+
+
+![png;base6410549057d8e2b9da](https://user-images.githubusercontent.com/56653993/82962297-7a28ef00-9fc8-11ea-9826-21de571b6d8d.png)
+
 
 
 
@@ -55,15 +63,6 @@ and you'll get a randomly generated password.
 
 ![main](https://user-images.githubusercontent.com/56653993/83145118-ff152500-a0fc-11ea-959a-d5e5bae43c54.png)
 
-
-
-
-You could compare them to real events, like the fall of USSR, which it managed to build 
-more atomic bombs than the USA, but suffered a great economic depression beacuse of it.
-
-
-
-![png;base6410549057d8e2b9da](https://user-images.githubusercontent.com/56653993/82962297-7a28ef00-9fc8-11ea-9826-21de571b6d8d.png)
 
 
 
