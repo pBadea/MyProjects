@@ -67,7 +67,8 @@ and you'll get a randomly generated password.
 
 
 
-# Sliding Puzzle written in Java with swing
+
+# Sliding Puzzle written in Java with Swing
 
 
 ![menu](https://user-images.githubusercontent.com/56653993/83141481-6e3c4a80-a0f8-11ea-88a2-3cfd8bbceebf.png)
