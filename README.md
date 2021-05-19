@@ -3,7 +3,7 @@ These are some of my personal projects
 
 Fell free to check any of them out
 
-# Leet Password Generator
+## Leet Password Generator
 ### Written in python with Tkinter
 
 ![main](https://user-images.githubusercontent.com/56653993/83145118-ff152500-a0fc-11ea-959a-d5e5bae43c54.png)
@@ -36,7 +36,7 @@ and you'll get a randomly generated password.
 
 ![reagan-revolution](https://user-images.githubusercontent.com/56653993/82961809-16ea8d00-9fc7-11ea-9d25-688f0dac731e.jpg)
 
-# ARMS RACE 
+## ARMS RACE 
 ### A dynimic system mathematical model in Python
 
 I did this project for my university in 2019 and it is about The Cold War.
@@ -69,7 +69,7 @@ more atomic bombs than the USA, but suffered a great economic depression beacuse
 ![png;base6410549057d8e2b9da](https://user-images.githubusercontent.com/56653993/82962297-7a28ef00-9fc8-11ea-9826-21de571b6d8d.png)
 
 
-# Sliding Puzzle written in Java with swing
+## Sliding Puzzle written in Java with swing
 
 
 ![menu](https://user-images.githubusercontent.com/56653993/83141481-6e3c4a80-a0f8-11ea-88a2-3cfd8bbceebf.png)
