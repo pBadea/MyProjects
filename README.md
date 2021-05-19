@@ -1,7 +1,5 @@
 Hello, these are some of my projects. Fell free to check them out!
-
-
-
+<br><br><br>
 # ARMS RACE 
 ### A dynimic system mathematical model in Python
 
@@ -37,6 +35,7 @@ more atomic bombs than the USA, but suffered a great economic depression beacuse
 
 
 
+<br><br><br>
 # Leet Password Generator
 ### Written in python with Tkinter
 
