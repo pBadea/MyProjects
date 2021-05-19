@@ -4,6 +4,7 @@ These are some of my personal projects
 Fell free to check any of them out
 
 # Leet Password Generator
+### Written in python with Tkinter
 
 ![main](https://user-images.githubusercontent.com/56653993/83145118-ff152500-a0fc-11ea-959a-d5e5bae43c54.png)
 
@@ -36,7 +37,8 @@ and you'll get a randomly generated password.
 ![reagan-revolution](https://user-images.githubusercontent.com/56653993/82961809-16ea8d00-9fc7-11ea-9d25-688f0dac731e.jpg)
 
 # ARMS RACE 
-### Implementation of a dynimic system model in python
+### A dynimic system mathematical model in Python
+
 I did this project for my university in 2019 and it is about The Cold War.
 You can check out the .ppt  presentation or the .docx documentaion about it,
 however it's all in german beacuse I'm at the german section. 
