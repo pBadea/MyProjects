@@ -1,6 +1,5 @@
-This project is a password generator that I made, you can put your own seed words in Plants.txt or with the gui,
-or just run PasswordGenerator.py and put your seed there.
-The program converts letters into letters made out of symbols and numbers using the 1337 (leet) alfapet.
+I made this project for my own amusement, it is a password generator that converts alphanumeric strings into variants of the string in the Leet spelling system, you can put your own seed words in Plants.txt or with the gui. Or just run PasswordGenerator.py and put your seed there.
+The program converts letters into letters made out of symbols and numbers using the 1337 (Leet) spelling system.
 
 
 ![Passwords](https://user-images.githubusercontent.com/56653993/83145111-fd4b6180-a0fc-11ea-81ca-05df002a23e9.png)
