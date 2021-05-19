@@ -1,6 +1,6 @@
 Hello, these are some of my projects. Fell free to check them out!
 <br><br><br>
-# ARMS RACE 
+# Arms Race 
 ### A dynimic system mathematical model in Python
 
 I did this project for my university in 2019 and it is about The Cold War.
