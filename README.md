@@ -1,7 +1,7 @@
 Hello, these are some of my projects. Fell free to check them out!
 <br><br><br>
 # Arms Race 
-### A dynimic system mathematical model in Python
+### A mathematical model of a dynimic system in Python
 
 I did this project for my university in 2019 and it is about The Cold War.
 You can check out the .ppt  presentation or the .docx documentaion about it,
