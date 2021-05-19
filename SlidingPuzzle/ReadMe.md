@@ -1,4 +1,4 @@
-#Sliding Puzzle written in Java with swing
+# Sliding Puzzle written in Java with swing
 
 
 ![menu](https://user-images.githubusercontent.com/56653993/83141481-6e3c4a80-a0f8-11ea-88a2-3cfd8bbceebf.png)
